@@ -59,7 +59,6 @@ Screenshot functions encounters problem with alerts. So be careful to call them 
 If the folders Screenshots and Test Reports do not exist in the project, they will be created automatically.
 The class ReadExcel only reads the excel files, and returns the arraylist containing the sheet.
 
-													By:
-													   Ashwin A. Vardhan
+				By: Ashwin A. Vardhan
 
   
