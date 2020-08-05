@@ -54,6 +54,7 @@ For the code:
 
 5. To take screenshots, just call the takeScreenshot function as follows:
 		takeScreenshot(WebDriver driver);
+6. SQL Injection (SQLi), Cross-site Scripting (XSS), secure code
 
 
 NOTE:
